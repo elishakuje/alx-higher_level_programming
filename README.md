@@ -19,7 +19,7 @@ The following are project folders done in the course of the study:
 | [`0x01-python-if_else_loops_functions`](https://github.com/elishakuje/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions) | Project aims at learning about Indentation, `if, if ... else` statements, comments, values of variables, `while` and `for` loops, `breaks` and `continue` statements, etc. |
 | [`0x02. Python - import & modules`](https://github.com/elishakuje/alx-higher_level_programming/tree/master/0x02-python-import_modules) | This Project is aimed at learning how to:
  - import functions from another file
- - use imported functions 
+ - use imported functions
  - create a module
  - use the built-in function `dir()`
  - prevent code in your script from being executed when imported
