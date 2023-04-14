@@ -1,4 +1,4 @@
-0x09. Python - Everything is object
+0x0A. Python - Inheritance
  -----------------
 This Project was done during Full Stack Software Engineering studies @ alx africa. it aims was to learn about:-
 - Why Python programming is awesom
@@ -22,6 +22,25 @@ Python Scriptss
 - All Python files are intepreted using `Python3 (3.8.5)`
 - Tested on Ubuntu 20.04 LTS
 - All codes tested with `pycodestyle (version 2.8.*)`
+- All your files must be executable
+- The length of your files will be tested using `wc`
+
+Python Test Cases
+  --------------------------
+- Allowed editors:`vi`, `vim`, `emacs`
+- All your files should end with a new line
+All your test files should be inside a folder `tests`
+- All your test files should be text files (extension: `.txt`)
+- All your tests should be executed by using this command: `python3 -m doctest ./tests/*`
+- All your modules should have a documentation (`python3 -c 'print(__import__("my_module").__doc__)')`
+- All your classes should have a documentation (`python3 -c 'print(__import__("my_module").MyClass.__doc__)')`
+- All your functions (inside and outside a class) should have a documentation (`python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')`
+- A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
+- We strongly encourage you to work together on test cases, so that you don’t miss any edge case
+
+Documentation
+  ---------------------
+- Do not use the words `inport` and `from` inside your comments, the checker will think you try to import some modules
 
 Files
  ---------------------------
